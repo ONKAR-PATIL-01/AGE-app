@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">minutes</string>
+    <string name="bg_image">bg image</string>
+    <string name="welcome">WELCOME</string>
+    <string name="click_me">click me</string>
+    <string name="C_A">CALCULATE AGE IN MINUTES AND SECONDS</string>
+    <string name="age">AGE</string>
+    <string name="date">SELECTED DATE</string>
+    <string name="a_m">AGE IN MINUTES</string>
+    <string name="op">onkar\'s application</string>
+</resources>

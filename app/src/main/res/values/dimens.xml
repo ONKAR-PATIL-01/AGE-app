@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="welcome_size">20sp</dimen>
+    <dimen name="w_s">60sp</dimen>
+    <dimen name="fourty">40sp</dimen>
+</resources>
